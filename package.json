@@ -1,0 +1,20 @@
+{
+    "name": "slick-slider",
+    "version": "1.8.0",
+    "description": "",
+    "main": "slick/slick.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/solodev/slick-slider.git"
+    },
+    "keywords": ["jquery", "easyui"],
+    "author": "solodev",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/solodev/slick-slider/issues"
+    },
+    "homepage": "https://github.com/solodev/slick-slider#readme"
+  }
